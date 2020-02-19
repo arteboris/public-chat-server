@@ -20,9 +20,9 @@
   "author": "me",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arteboris/public-chat-server/issues"
+    "url": "https://public-chat-server.herokuapp.com/"
   },
-  "homepage": "https://github.com/arteboris/public-chat-server#readme",
+  "homepage": "https://public-chat-server.herokuapp.com/",
   "dependencies": {
     "cors": "^2.8.5",
     "cross-env": "^7.0.0",
